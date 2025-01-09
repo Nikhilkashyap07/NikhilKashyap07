@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikhilkashyap07/NikhilKashyap07/blob/main/banner2.jpg)
+![logo](https://github.com/Nikhilkashyap07/NikhilKashyap07/blob/main/Profile%20Software%20Engineer%20LinkedIn%20Banner%202%20-%20Made%20with%20PosterMyWall%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Kashyap</h1>
 <h3 align="center">A passionate Data Analytics Engineer</h3>
 
